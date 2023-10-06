@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" style="color: rgb(255, 255, 255); font-size: 100px; text-overflow: clip; white-space: nowrap; -unity-text-align: lower-center; padding-top: 4px;" />
+    <ui:Button text="Click me" parse-escape-sequences="true" display-tooltip-when-elided="true" style="font-size: 30px;" />
+</ui:UXML>
